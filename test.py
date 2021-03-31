@@ -22,7 +22,6 @@ from strayIcon import *
 2020-10-13 10.45.18
 取消字符后面输入数字直接选择的功能。
 索引数量加至4个字符。
-
 '''
 #print(keyboard.all_modifiers)
 #{'alt', 'ctrl', 'right shift', 'right alt', 'right windows', 'left shift', 'right ctrl', 'alt gr', 'windows', 'left ctrl', 'shift', 'left windows', 'left alt'}
